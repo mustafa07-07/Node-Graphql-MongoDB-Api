@@ -1,6 +1,9 @@
 {
   "name": "node_graphql",
   "version": "1.0.0",
+  "engines": {
+    "yarn": "1.22.17"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
