@@ -2,7 +2,7 @@
   "name": "node_graphql",
   "version": "1.0.0",
   "engines": {
-    "yarn": "1.22.17"
+    "node": "16.x"
   },
   "description": "",
   "main": "index.js",
