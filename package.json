@@ -17,7 +17,6 @@
     "@graphql-tools/schema": "^8.3.1",
     "apollo-server": "^3.6.2",
     "apollo-server-core": "^3.6.2",
-    "apollo-server-express": "^3.6.2",
     "bcrypt": "^5.0.1",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
